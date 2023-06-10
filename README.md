@@ -15,7 +15,6 @@ Before you start, make sure that you have the following software installed.
 - Git (standard on Linux) or GitHub Desktop
 - Node.js and npm (usually bundled with Node.js)
 - Python
-
 ### Setup
 Clone the repository:
 
