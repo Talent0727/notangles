@@ -42,5 +42,4 @@ Navigate into `/server`, install packages with `npm i`, then run `npm start`. Th
 Navigate into `/auto_server`, setup a virtual environment, install the required Python packages with `pip install -r requirements.txt`, then start the server with `python server.py`.
 
 ## Documentation
-
 For more information, see our [Confluence space](https://compclub.atlassian.net/wiki/spaces/N/overview?homepageId=2142536957).
