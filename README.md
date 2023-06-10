@@ -9,9 +9,7 @@ A few weeks before class registration opens, UNSW releases all of their class in
 Students often find it hard to plan out their classes such that they end up in the same class as their friends. It can also be difficult to plan out times where they can meet up with their friends outside of class. Notangles aims to solve this problem through social timetabling, allowing users to view their friends’ timetables and to also plan out timetables collaboratively.
 
 ## Running Notangles on your Local Machine
-
 ### Prerequisites
-
 Before you start, make sure that you have the following software installed.
 
 - Git (standard on Linux) or GitHub Desktop
@@ -19,7 +17,6 @@ Before you start, make sure that you have the following software installed.
 - Python
 
 ### Setup
-
 Clone the repository:
 
 `git clone git@github.com:csesoc/notangles.git`
